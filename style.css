@@ -3,3 +3,54 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  font-family: Verdana;
+}
+
+nav {
+  background: #FF5733;
+  width: auto;
+  text-align: center;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  font-family: Calibri;
+  font-style: oblique;
+}
+
+a:links {
+  color: black;
+}
+
+#featured-property {
+  text-align: center;
+  margin: 50px;
+}
+
+#details {
+  margin: auto;
+  text-align: center;
+  background: #FFC133;
+  padding-bottom: 50px;
+}
+
+div.contact{
+  display: inline-block;
+  margin-right: 50px;
+}
+
+div.correspondence {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+div.links{
+  display: inline-block;
+  margin-right: 50px;
+}
+
+div.follow {
+  display: inline-block;
+  margin-right: 50px;
+}
